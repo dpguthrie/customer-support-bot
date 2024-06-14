@@ -5,6 +5,7 @@
 To run the jupyter notebook, do the following
 
 - Clone this repo locally
+- Copy the `.env.example` folder to a `.env` file and update for your specific API keys
 - Install `uv` (Optional).  If you don't follow this step, just use `pip install` instead of `uv pip install`
 ```bash
 pip install uv
